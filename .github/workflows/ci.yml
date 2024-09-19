@@ -23,7 +23,7 @@ jobs:
         run: bin/brakeman --no-pager
 
   # scan_js:
-  #   runs-on: ubuntu-latest 
+  #   runs-on: ubuntu-latest
 
   #   steps:
   #     - name: Checkout code
